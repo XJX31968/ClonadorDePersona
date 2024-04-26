@@ -24,6 +24,9 @@ public class Persona {
 		this.peso = peso;
 		this.altura = altura;
 	}
+	
+	Public Persona();
+	
 	/**
 	 * 
 	 * @return the nombre
